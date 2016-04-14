@@ -1,4 +1,5 @@
 //Source: https://kb.iu.edu/d/bdmg
+//INDIANA UNIVERSITY
 /**********************    mat_mul.cu    ******************************/
   #include <stdlib.h>
   #include <stdio.h>
